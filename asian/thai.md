@@ -4,5 +4,5 @@
 Select a restaurant:
 ## [Glow Thai](http://www.glowthairestaurant.com/)
 ---
-[Back to Asian](../home.md/asian.md)
+[Back to Asian](asian.md)
 [Start Over](../home.md)
